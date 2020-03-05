@@ -1,5 +1,5 @@
 # Scikit-Learn
-The file contains playing around scikit-learn library. Trying different Machine Learning models and tuning of hyperparameters. The file might take some time to load in jupyter notebook. The file contains following contents:
+The file contains playing around scikit-learn library along with using numpy, pandas, matplotlib and seabon. Trying different Machine Learning models and tuning of hyperparameters. The file might take some time to load in jupyter notebook. The file contains following contents:
 * An end-to-end Scikit-Learn workflow,
 * Getting the data ready
 * Choose the right estimator/algorithm for our problems
